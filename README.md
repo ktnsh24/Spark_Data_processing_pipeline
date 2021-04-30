@@ -17,3 +17,4 @@ If you want to play locally without EMR cluster, check sparkProcessingScript.ipy
 
 In the next part of this pipeline, I will create the dimensional model in the Redshift Data warehouse. I will also implement the redshift spectrum pipeline. The redshift spectrum pipeline will insert and update the data inside the dimensional table and fact table.
 
+ ![](Redshiftdimensionmodel.png)
