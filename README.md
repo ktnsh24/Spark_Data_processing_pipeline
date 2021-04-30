@@ -4,7 +4,7 @@
 Amazon EMR is the cloud based big data platform for processing vast amounts of data using open source tools such as Apache Spark, Apache Hive, Apache HBase, Apache Flink, Apache Hudi, and Presto. (Source aws.amazon.com)
 
 
- ![](SparkPipeline.png)
+ ![](spark processing.png)
  
 
 In this pipeline, I created a Spark-based Transient AWS EMR cluster. The transient EMR cluster terminates automatically once it finishes the job. The cluster performs the job in 3 steps. The written instructions are available in the custom JAR script. Check the custom JAR script in the repository. The 3 steps are mentioned below. 
